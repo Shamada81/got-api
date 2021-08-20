@@ -1,0 +1,8 @@
+.button {
+	margin-bottom: 40px;
+}
+
+.app {
+    background: blue url('got.jpeg') center center no-repeat fixed;
+    background-size: cover;	
+}
